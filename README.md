@@ -2,7 +2,7 @@
 
 :comet: Getting blocked while **Security Testing**, **Web harvesting**, or even **Bot assisted processes**?  
 :comet: Switch to Proxies.is for a smoother, hassle-free experience! Discover the difference now.
-
+ 
 **:globe_with_meridians:  Global Features:**
 :sparkling_heart: |  »  IPv6 Rotating Proxies
 ⚡️ |  »  Lightning Speed  & **Reliable** Agents !
@@ -12,7 +12,7 @@
 :globe_with_meridians: |  »  Option to specify any Country that is available in our list.
 :mag_right: |  » Advanced Proxy Filtering (Country, ASN, Timeout, ISP)
 :gear: |  » Advanced (API Manager) with allot exciting features.
-
+ 
 **:heavy_dollar_sign: Accepted Payments:**
 :mobile_phone: Cryptocurrency
 :mobile_phone: Credit Card
