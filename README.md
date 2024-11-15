@@ -11,7 +11,7 @@
 - 🧹 | **No Flagged Subnets**
 - ⭐️ | Blazing Speed & Reliability
 - 🔥 | Available Protocols: **SOCKS4, SOCKS5, HTTP, and HTTPS**
-- 🌍 | Option to specify any **Country** available in our list
+- 🌍 | Option to choose any **Country** available in our list
 - 🔍 | **Advanced Proxy Filtering** (Country, ASN, Timeout, ISP)
 - ⚙️ | **Advanced API Manager** with exciting features
 
