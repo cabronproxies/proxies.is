@@ -1,25 +1,31 @@
-**:rocket:  Proxies.is  |  Your all-in-one proxy provider  :rocket:**
+# 🚀 Proxies.is | Your all-in-one proxy provider 🚀
 
-:comet: Getting blocked while **Security Testing**, **Web harvesting**, or even **Bot assisted processes**?  
-:comet: Switch to Proxies.is for a smoother, hassle-free experience! Discover the difference now.
- 
-**:globe_with_meridians:  Global Features:**
-:sparkling_heart: |  »  IPv6 Rotating Proxies
-⚡️ |  »  Lightning Speed  & **Reliable** Agents !
-:broom: |  »  No Flagged Subnets
-⭐️ |  »  Blazing Speed & Reliability
-:fire: |  »  Available protocols (SOCKS4, SOCKS5, HTTP, and HTTPS)
-:globe_with_meridians: |  »  Option to specify any Country that is available in our list.
-:mag_right: |  » Advanced Proxy Filtering (Country, ASN, Timeout, ISP)
-:gear: |  » Advanced (API Manager) with allot exciting features.
- 
-**:heavy_dollar_sign: Accepted Payments:**
-:mobile_phone: Cryptocurrency
-:mobile_phone: Credit Card
-:mobile_phone: PayPal
+🌠 **Getting blocked while** _Security Testing_, _Web harvesting_, or even _Bot-assisted processes?_  
+🌠 Switch to **Proxies.is** for a smoother, hassle-free experience! Discover the difference now.
 
-**:rocket: Contact & Information:**
-:globe_with_meridians: |  » Website proxies.is
-:convenience_store: |  » Secured Telegram  Support @proxiesis_bot
-:sparkling_heart: |  » Telegram @proxies_is
-:sparkling_heart: |  » Discord discord.gg/proxiesis
+---
+
+## 🌐 Global Features:
+- ❤️ | **IPv6 Rotating Proxies**
+- ⚡️ | Lightning Speed & **Reliable** Agents!
+- 🧹 | **No Flagged Subnets**
+- ⭐️ | Blazing Speed & Reliability
+- 🔥 | Available Protocols: **SOCKS4, SOCKS5, HTTP, and HTTPS**
+- 🌍 | Option to specify any **Country** available in our list
+- 🔍 | **Advanced Proxy Filtering** (Country, ASN, Timeout, ISP)
+- ⚙️ | **Advanced API Manager** with exciting features
+
+---
+
+## 💵 Accepted Payments:
+- 📱 **Cryptocurrency**
+- 📱 **Credit Card**
+- 📱 **PayPal**
+
+---
+
+## 🚀 Contact & Information:
+- 🌍 | [Website](https://proxies.is)
+- 🏪 | Secured Telegram Support: [@proxiesis_bot](https://t.me/proxiesis_bot)
+- 💖 | Telegram: [@proxies_is](https://t.me/proxies_is)
+- 💖 | Discord: [discord.gg/proxiesis](https://discord.gg/proxiesis)
